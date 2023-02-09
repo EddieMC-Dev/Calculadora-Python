@@ -12,6 +12,7 @@ da calculadora.
 ## Calculando
 Como demonstração vamos calcular 15 x -15 que deveria resultar em -225
 <div>
+  <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/calculando_git.PNG">
   <img src="">
 </div>
 
