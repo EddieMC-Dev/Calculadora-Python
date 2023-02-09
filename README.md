@@ -6,6 +6,13 @@ interface gráfica da biblioteca Tkinter que forneceu praticamente todos os recu
 da calculadora.
 
 <div>
-  <img src= >
-<\div>
+  <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/calculadora_git.PNG?raw=true" >
+</div>
+
+## Calculando
+Como demonstração vamos calcular 15 x -15 que deveria resultar em -225
+<div>
+  <img src="">
+</div>
+
 
