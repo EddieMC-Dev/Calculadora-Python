@@ -25,3 +25,7 @@ foi realizado para gerar todos os botões em um único loop, aproveitando cada p
 <div>
    <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/botoes.PNG"> 
 </div>
+
+## Ferramentas usadas
+- Tkinter: https://docs.python.org/3/library/tk.html
+- Vídeo de apoio: https://youtu.be/i24MxljM-Bw
