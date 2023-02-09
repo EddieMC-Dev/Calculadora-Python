@@ -13,7 +13,11 @@ da calculadora.
 Como demonstração, iremos calcular uma simples conta: 15 x -15
 <div>
   <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/calculadora_git.PNG?raw=true" >
+</div>
+<div>
   <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/calculando_git.PNG">
+</div>
+<div>
   <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/resultado_git.PNG">
 </div>
 Ao digitarmos a conta e clicar no botão de igual, o cálculo resultou em -225 que é a resposta correta.
